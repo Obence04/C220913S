@@ -10,6 +10,7 @@ namespace C20220913
     {
         static void Main(string[] args)
         {
+
             Console.ReadKey(true);
         }
     }
